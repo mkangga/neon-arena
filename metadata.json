@@ -1,0 +1,5 @@
+{
+  "name": "Neon Roguelite Arena",
+  "description": "A 2D top-down roguelite arena game built with React and TypeScript. Survive waves of enemies, collect XP, and choose powerful upgrades in a neon-drenched lab.",
+  "requestFramePermissions": []
+}
